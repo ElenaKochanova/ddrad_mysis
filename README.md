@@ -1,4 +1,4 @@
-# ddRAD Stacks Assembly Pipeline
+# ddRAD Mysis spp Bioinformatic pipeline
 
 This repository contains the code for the manuscript:"Phylogeography and population genomics of three freshwater Mysis species at their post-glacial contact in Eastern Fennoscandia", investigating the structure and colonization history of Mysis relicta, M. salemaai and M. segerstralei using ddRAD sequencing data.
 
