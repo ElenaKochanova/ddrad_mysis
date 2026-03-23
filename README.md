@@ -11,6 +11,6 @@ The filtered genomic datasets are available on DRYAD
 This pipeline includes the scripts 
 - filtering+assembly_stacks.sh, which covers Clone filtering, Adapter trimming with cutadapt, and De novo assembly using Stacks
 - Principal_component_analysis.R doing PCAs with adegenet
-- Dxy_distances.R script calculating Dxy distances from ddRAD data
+- Dxy_distances.R script calculating Dxy distances from ddRAD data using vcfR and dplyr packages
 - snmf.sh describing snmf admixture analysis 
 
